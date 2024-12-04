@@ -219,10 +219,11 @@
   overflow-y: auto;
 }
 
-.fc .fc-scrollgrid-section-body table {
-  max-height: 420px;
-  overflow-y: auto;
+.fc-daygrid-event,
+.fc-event-title-container {
+  cursor: pointer;
 }
+
 /* Modal Styles */
 .image-modal,
 .calendar-modal {

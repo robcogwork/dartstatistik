@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Dartstatistik Plugin
  * Description: Displays dart events and optionally a calendar. Supports parameters for districts, limits, types, and layout toggles.
- * Version: 1.0.4
+ * Version: 1.0.5
  * Requires at least: 5.0
  * Requires PHP: 7.2
  * Author: Cogwork AB
